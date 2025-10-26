@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"dodging",
+			"kendo",
+			[
+				26,
+				35,
+				253
+			]
+		],
+		[
+			"engarde",
+			"kendo",
+			[
+				60,
+				60,
+				253
+			]
+		],
+		[
+			"showdown",
+			"kendo",
+			[
+				55,
+				33,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "showdown",
+	"weekName": "Week6",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
